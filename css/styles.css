@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@200&display=swap");
+* {
+  font-family: "Open Sans", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+html {
+  font-size: 0.7em;
+}
+header {
+  text-align: center;
+  padding: 15px;
+}
+.botonera{
+  background-color: rgb(109, 203, 237);  
+  font-weight: bold;
+  font-size: 1.5em;
+  
+}
+
+.card-img-top{
+  height: 190px;
+  width: 250px;
+  object-fit: cover;
+  margin: auto;  
+  padding-top: 10px;
+}
+h1, h2 {  
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  
+}
+#nosotros {
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+  display: block; 
+
+}
+main article img {
+  width: 100%;
+}
+main form {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px;
+  margin-top: 10px;
+}
+footer {
+  background-color: rgb(109, 203, 237);
+  padding: 3px;
+  background-position: bottom;
+  width: 100%;
+  margin-top: 5px;
+  /* position: fixed; */
+  bottom: 0; 
+  
+  
+}
+
+footer a img {
+  width: 5%;
+  
+}
+.imagenes {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#grupo {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: black;
+}
+#video {
+  
+  padding: 20px;
+  width: 100%;
+  margin: 0 auto;
+  display: block; 
+ 
+  }
