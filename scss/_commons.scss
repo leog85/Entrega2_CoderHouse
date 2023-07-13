@@ -1,0 +1,90 @@
+* {
+  font-family: $mainFont;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: $textSm;
+} 
+header {
+  text-align: center;
+  padding: 15px;
+}
+.botonera {
+  background-color: $mainColor;
+  font-weight: $textBold;
+  font-size: $textLg;
+}
+
+h1,
+h2 {
+  font-size: $textXl;
+  padding: 10px;
+  text-align: center;
+  font-weight: $textBold;
+  color: $keyColor;
+}
+
+
+footer {
+    background-color: $mainColor;
+    padding: 3px;
+    background-position: bottom;
+    width: 100%;
+    margin-top: 20px;
+    bottom: 0;
+    a img{
+      width: 5%;
+    }
+  }
+  
+#video {
+ 
+  padding: 20px;
+  width: 90%;
+  margin: 0 auto;
+  display: block;  
+ 
+}
+
+
+
+.prom{
+  width: 40%;
+}
+ #carousel{
+  margin: 30px;
+  height: 80%;  
+
+ }
+
+ .card-img-top {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  margin: auto;
+  
+}
+
+#nosotros {
+  padding: 20px;
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+}
+main article img {
+  width: 100%;
+  
+}
+
+main form {
+  font-size: $textLg;
+  font-weight: $textBold;
+  padding: 10px;
+  margin-top: 10px;
+}
+.card-text{
+  background-color: $white;
+}
+

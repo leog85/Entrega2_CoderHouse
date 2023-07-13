@@ -1,0 +1,25 @@
+{
+  "name": "leo",
+  "version": "1.0.0",
+  "description": "Link pages: https://leog85.github.io/Entrega2_CoderHouse/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+    "sass:watch": "sass --watch scss/main.scss  css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leog85/Entrega2_CoderHouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leog85/Entrega2_CoderHouse/issues"
+  },
+  "homepage": "https://github.com/leog85/Entrega2_CoderHouse#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "sass": "^1.63.6"
+  }
+}

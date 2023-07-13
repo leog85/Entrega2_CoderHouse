@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@200&display=swap");
+p {
+  font-family: "roboto", sans-serif;
+  color: black;
+  background-color: rgb(109, 203, 237);
+}
+
+* {
+  font-family: "roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 0.8em;
+}
+
+header {
+  text-align: center;
+  padding: 15px;
+}
+
+.botonera {
+  background-color: rgb(109, 203, 237);
+  font-weight: 600;
+  font-size: 1.6em;
+}
+
+h1,
+h2 {
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+  color: black;
+}
+
+footer {
+  background-color: rgb(109, 203, 237);
+  padding: 3px;
+  background-position: bottom;
+  width: 100%;
+  margin-top: 20px;
+  bottom: 0;
+}
+footer a img {
+  width: 5%;
+}
+
+#video {
+  padding: 20px;
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+}
+
+.prom {
+  width: 40%;
+}
+
+#carousel {
+  margin: 30px;
+  height: 80%;
+}
+
+.card-img-top {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  margin: auto;
+}
+
+#nosotros {
+  padding: 20px;
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+}
+
+main article img {
+  width: 100%;
+}
+
+main form {
+  font-size: 1.6em;
+  font-weight: 600;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.card-text {
+  background-color: white;
+}
+
+/*# sourceMappingURL=main.css.map */
